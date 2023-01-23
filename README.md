@@ -1,3 +1,6 @@
+
+![Banner de LinkedIn Profesor Adjunto Pincelada Verde y Crema](https://user-images.githubusercontent.com/28809990/214045176-0e20ad68-8228-4351-ae05-320d5b75a664.png)
+
 - 👋 Hi, I’m @gtrujillov
 - 👀 I’m interested in iOS, SwiftUI and UIKit
 - 📱 I’m currently learning SwiftUI 
